@@ -1,7 +1,14 @@
-<p align="center">
+<p align="left">
   <img
     src="fc1.svg"
     alt="Front of flashcard"
+    width="200"
+  />
+</p>
+<p align="right">
+  <img
+    src="fc2.svg"
+    alt="Back of flashcard"
     width="200"
   />
 </p>
