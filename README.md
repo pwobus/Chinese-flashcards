@@ -1,11 +1,11 @@
-<p align="left">
+<p align="center">
   <img
     src="fc1.svg"
     alt="Front of flashcard"
     width="200"
   />
 </p>
-<p align="right">
+<p align="center">
   <img
     src="fc2.svg"
     alt="Back of flashcard"
