@@ -1,4 +1,10 @@
-fc1.png
+<p align="center">
+  <img
+    src="fc1.svg"
+    alt="Front of flashcard"
+    width="200"
+  />
+</p>
 
 ## Run Locally
 
