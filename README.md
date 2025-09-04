@@ -1,7 +1,4 @@
-
-<img src="fc1.png">
-
-
+[front of flashcard](fc1.png)
 
 ## Run Locally
 
