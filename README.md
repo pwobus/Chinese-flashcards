@@ -1,4 +1,4 @@
-[front of flashcard](fc1.png)
+(fc1.png)
 
 ## Run Locally
 
