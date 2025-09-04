@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" src="fc1.png" />
+<img width="1200" height="475" src="fc1.png">
 </div>
 
 # Run and deploy your AI Studio app
