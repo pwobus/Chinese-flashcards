@@ -9,7 +9,7 @@
   <img
     src="fc2.svg"
     alt="Back of flashcard"
-    width="200"
+    
   />
 </p>
 
